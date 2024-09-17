@@ -35,5 +35,13 @@ const Button = () => (
 
 Feedback (For CF's)
 [Course Facilitator name]
+
+Alexander
+
 [What went well]
+
+It is great that you showed some important learnings like flexbox vs grid and also loved that you mentioned that you integrated other teams' learnings in your project.
+
 [Even better if]
+
+You could try to document a few more learnings like DOM manipulation or dynamic content creation using JS. I feel like you documented mostly your own tasks but didn't do your teammates'. Your snippets are great, if you support these ideas with snippets you would have a more effective log that you can revisit in the future whenever you have doubts.
