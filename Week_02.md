@@ -94,6 +94,14 @@ test("Uppercases the user's input and updates the page", () => {
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Great job Tania, you mentioned all the topics we were supposed to cover this week and some others. It is great that you included testing
+
 > [*Even better if*]
+
+This is a great PL as it is, if you want to make it even more effective I would curate a bit more the snippets, there is no need to include whole modules or functions. Ideally they should be as short as possible and only support one topic for example (as opposed to a longer example that tackles many topics)
