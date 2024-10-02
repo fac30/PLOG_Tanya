@@ -32,6 +32,14 @@ Example: VADER(sentiment Analysis Lybraries) or GoEmotions.
 - I would like to revisit the current implementation of this mechanism and make it more efficient by saving the embeddings in a separate JSON file to improve performance.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+You used openAI api in a very sophisticated way. Using embedings in your project is great and definetly something that you should add to your personal portfolio 
+
 > [*Even better if*]
+
+It may be more useful to give a few short specifics than one big topic. You can peak Jason's PLog Week03, it is a good balance.
