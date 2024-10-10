@@ -47,6 +47,14 @@ import { DotLottieReact } from '@lottiefiles/dotlottie-react';
 
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+You mentioned the most important React core concepts
+
 > [*Even better if*]
+
+It would be great to have a bit more React realted info. like specifics reagarding passing props, React hooks, etc
