@@ -94,6 +94,9 @@ export const handleGetAllProducts = async (req: Request, res: Response): Promise
 ![schema_crafts_db](./screenshots/schema_crafts.png)
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
+> [**Course Facilitator name**]
+>
+> Alexander
+>  
 > [*What went well*]  
-> [*Even better if*]
+> Great explanations and great examples. You shown here that you have a strong knowledge on Back end.
