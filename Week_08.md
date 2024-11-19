@@ -59,6 +59,14 @@ Sign-Up user:
 - We encountered issues when integrating the deployed versions of the frontend, backend, and database after completing all database testing. We spent some time identifying the root cause and, without resorting to ChatGPT or Google, managed to resolve it using console.log for debugging. I’m pleased with our persistence and success in troubleshooting independently.
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Strong understanding of deployment differences between platforms (Render vs AWS). Good documentation of database migration process from SQLite to PostgreSQL with clear code examples. Excellent API documentation with detailed endpoint specifications.
+
 > [*Even better if*]
+
+Document the specific integration issues you encountered after deployment and show the console.log debugging process that helped solve them, since you mentioned this was a key learning experience.
