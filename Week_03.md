@@ -38,7 +38,7 @@ Alexander
 
 > [*What went well*]
 
-You used openAI api in a very sophisticated way. Using embedings in your project is great and definetly something that you should add to your personal portfolio 
+You used openAI api in a very sophisticated way. Using embedings in your project is great and definetly something that you should add to your personal portfolio.
 
 > [*Even better if*]
 
