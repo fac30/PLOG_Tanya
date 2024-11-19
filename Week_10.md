@@ -52,6 +52,14 @@ body {
 ![branch_protection_rules](./screenshots/rules.png)
 
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good transition from Fetch to Axios with clear understanding of its advantages. Nice exploration of React Context for state management. Solid grasp of deployment architecture concepts regarding backend and database separation.
+
 > [*Even better if*]
+
+Explain your specific implementation of GitHub branch protection rules since you mentioned it was guesswork. Show your CSS organization strategy since you moved away from Tailwind - demonstrate how you're maintaining consistency without a framework.
