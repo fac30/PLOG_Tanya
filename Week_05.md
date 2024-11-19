@@ -34,6 +34,14 @@ After attending a lecture by Laurie on Thursday, I gained a much better understa
 
 - Another significant struggle was realizing that **fixing styles is not as quick as I initially thought**. It takes time to understand where styles are inherited from, which elements are parents, and how parent styles affect child elements. Bringing the frontend design in line with our Figma plan proved to be a slower process than expected, especially when figuring out the cascading effects of styles.
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Good understanding of deployment processes for both AWS EC2 and S3. Strong grasp of web accessibility principles with specific, practical examples. Clear lesson learned about Git branch naming conventions from actual experience.
+
 > [*Even better if*]
+
+Show code examples of your media query implementations in Tailwind since you mentioned learning it. Document your specific merge conflict issues with code to better track how you/team resolved them.
