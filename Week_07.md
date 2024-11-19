@@ -80,6 +80,14 @@ store: new SQLiteStore({
   }) as session.Store,
 ```
 ## Feedback (For CF's)
-> [**Course Facilitator name**]  
-> [*What went well*]  
+> [**Course Facilitator name**]
+
+Alexander
+
+> [*What went well*]
+
+Excellent understanding of session management and security implementations. Strong grasp of authentication flow with clear code examples showing frontend-backend interaction. Good documentation of security considerations with practical implementations like session storage and password hashing.
+
 > [*Even better if*]
+
+Show how you tested your security implementations. Since you mentioned problems with session store configuration, include the specific issues you encountered and how you diagnosed them.
